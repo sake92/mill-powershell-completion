@@ -28,5 +28,5 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 
 
 Useful links:
-https://dev.to/ofhouse/add-a-bash-like-autocomplete-to-your-powershell-4257
-https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/ise/how-to-use-profiles-in-windows-powershell-ise
+- https://dev.to/ofhouse/add-a-bash-like-autocomplete-to-your-powershell-4257
+- https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/ise/how-to-use-profiles-in-windows-powershell-ise
