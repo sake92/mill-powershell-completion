@@ -12,12 +12,12 @@ if (!(Test-Path -Path $PROFILE.CurrentUserAllHosts)) {
 ii $PROFILE.CurrentUserAllHosts
 ```
 
-1. Copy the contents of the `profile.ps1` script into your profile.  
+2. Copy the contents of the `profile.ps1` script into your profile.  
 Close the file.
 
-1. Open a fresh PowerShell console
+3. Open a fresh PowerShell console
 
-1. Enter a Mill project folder, type `mill` and hit `TAB` !
+4. Enter a Mill project folder, type `mill` and hit `TAB` !
 
 
 ---
